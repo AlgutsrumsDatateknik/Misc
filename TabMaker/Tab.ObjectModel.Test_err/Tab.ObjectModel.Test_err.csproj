@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Tab.ObjectModel\Tab.ObjectModel.csproj" />
+    <ProjectReference Include="..\Tab.ObjectModel\Tab.ObjectModel_err.csproj" />
   </ItemGroup>
 
 </Project>
